@@ -2,7 +2,7 @@
  
 - hosts: localhost # hosts to be configured
  
-sudo: yes # sudo permissions
+- sudo: yes # sudo permissions
  
 tasks:
  
