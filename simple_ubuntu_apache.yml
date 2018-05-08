@@ -1,6 +1,6 @@
 ---
  
-- hosts: webkul # hosts to be configured
+- hosts: all # hosts to be configured
  
 sudo: yes # sudo permissions
  
