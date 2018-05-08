@@ -1,6 +1,6 @@
 ---
  
-- hosts: all # hosts to be configured
+- hosts: localhost # hosts to be configured
  
 sudo: yes # sudo permissions
  
